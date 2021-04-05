@@ -1,0 +1,4 @@
+- https://elixirschool.com/pt/
+- https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA
+- https://phoenixframework.org
+- https://timber.io/blog/a-gentle-introduction-to-graphql-with-elixir-and-phoenix/
