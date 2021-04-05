@@ -1,2 +1,3 @@
 - https://richardbertozzo.dev/posts/getting-started-go/
 - https://www.youtube.com/playlist?list=PL0qudqr7_CuStQUsf2vtHXMxOp5gl_ENc
+- https://www.howtographql.com/graphql-go/1-getting-started/
