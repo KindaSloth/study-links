@@ -1,0 +1,2 @@
+- http://reasonmlhub.com/exploring-reasonml/
+- https://github.com/reasonbr/comece-aqui
