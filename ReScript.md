@@ -1,5 +1,17 @@
+## Reason Books
+
+- http://reasonmlhub.com/exploring-reasonml/
+
+## Docs
+
+- https://rescript-lang.org/
+- https://reasonml.github.io/
+
+## Repos
+
+- https://github.com/reasonbr/comece-aqui
+
+## OCaml Books
+
 - https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/
 - https://dev.realworldocaml.org/
-- http://reasonmlhub.com/exploring-reasonml/
-- https://rescript-lang.org/
-- https://github.com/reasonbr/comece-aqui
