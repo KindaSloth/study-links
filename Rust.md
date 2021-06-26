@@ -26,3 +26,7 @@
 - Build your own Compiled Programming Language in Rust: https://createlang.rs/
 - Build your own Interpreted Programming Language in Rust: https://arzg.github.io/lang/
 - Build your own Operating System in Rust: https://os.phil-opp.com/
+
+## Utils
+
+- Awesome Rust: https://github.com/rust-unofficial/awesome-rust
